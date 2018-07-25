@@ -1,0 +1,18 @@
+.container {
+
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+h2,h3 {
+
+    color: slateblue;
+    text-align: center;
+    font-style: inherit;
+}
+.table {
+
+    text-align: center;
+    font-style: inherit;
+   
+}
